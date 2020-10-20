@@ -10,7 +10,7 @@
 
 1. [24.09.2020 Kenijska bajka](http://static.prsa.pl/90955767-8ef0-4e5a-ba85-a4b4e3a80420.mp3)
 
-1. [18.09.2020 Król drozdobrody](http://static.prsa.pl/6ebf4482-ab66-4410-8950-e6dfea50efee.mp3)
+1. [18.09.2020 Król drozdobrody](http://static.prsa.pl/6ebf4482-ab66-4410-8950-e6dfea50efee.mp3) :star::star::star:
 
 1. [11.09.2020 Mysikrólik i niedźwiedź](http://static.prsa.pl/3783cfcf-0669-4204-9f46-0f153cfd1540.mp3)
 
@@ -18,7 +18,7 @@
 
 1. [28.08.2020 Wszechwiedzący doktór](http://static.prsa.pl/0a9e902d-ae3a-48f3-8912-b79b3d9efd3d.mp3)
 
-1. [21.08.2020 Nowe szaty króla](http://static.prsa.pl/6081dd63-015d-4878-80f5-5eb5f8a3ac6a.mp3)
+1. [21.08.2020 Nowe szaty króla](http://static.prsa.pl/6081dd63-015d-4878-80f5-5eb5f8a3ac6a.mp3) :star::star::star:
 
 1. [14.08.2020 Rupec Kopeć](http://static.prsa.pl/c49d1e69-5f71-4423-9c53-4e0c2c651c25.mp3)
 
@@ -26,7 +26,9 @@
 
 1. [31.07.2020 Król żab](http://static.prsa.pl/89d185c0-54c8-478d-b98d-c2bd5f48b04c.mp3)
 
-1. [07.07.2020 Czerwony Kapturek](http://static.prsa.pl/f0ce9e54-4e3c-4118-824a-48c5749ec96a.mp3)
+1. [24.07.2020 Igła do cerowania](http://static.prsa.pl/50fef085-f9ce-4e77-b293-695bff7966a0.mp3)
+
+1. [17.07.2020 Czerwony Kapturek](http://static.prsa.pl/f0ce9e54-4e3c-4118-824a-48c5749ec96a.mp3)
 
 1. [12.07.2020 Jaś i Małgosia](http://static.prsa.pl/a537ed7d-92d9-4d43-8dec-7e5234d702aa.mp3)
 
