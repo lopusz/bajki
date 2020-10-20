@@ -6,5 +6,15 @@ print("# Bajkowy kącik\n\n\n")
 with open("bajki.json") as f:
     for line in f:
         d = json.loads(line)
-        print(f"* [{d['title']}]({d['url']})\n")
+
+        s = f"1. [{d['title']}]({d['url']})"
+
+        if "rating" in d:
+            rating=" "
+            for _ in d["rating"]:
+                rating +=":star:"
+            s += rating
+
+        print(s + "\n")
+
 
