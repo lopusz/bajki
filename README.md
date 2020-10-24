@@ -48,7 +48,7 @@
 
 1. [30.06.2020 Złota kaczka](http://static.prsa.pl/5e7241d2-2890-44e9-9235-91bd2de9497f.mp3)
 
-1. [25.06.2020 O złym smoku i o siarce](http:////static.prsa.pl/26aa58b9-cac4-4c78-8107-4726d5c63744.mp3)
+1. [25.06.2020 O złym smoku i o siarce](http://static.prsa.pl/26aa58b9-cac4-4c78-8107-4726d5c63744.mp3)
 
 1. [24.06.2020 Rak nieborak](http://static.prsa.pl/d81b5fec-07e6-470d-b981-f689072212ae.mp3)
 
