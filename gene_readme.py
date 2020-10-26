@@ -1,20 +1,34 @@
 #!/usr/bin/env python3
 import json
 
-print("# Bajkowy kącik\n\n\n")
+FNAMES_TITLES = [("Wojtek_i_Smok_Adas.json", "Wojtek i Smok Adaś"),
+                ("Inne_bajki.json", "Inne bajki")]
 
-with open("bajki.json") as f:
-    for line in f:
-        d = json.loads(line)
 
-        s = f"1. [{d['title']}]({d['url']})"
+def process_json(fname):
+    with open(fname) as f:
+        for i, line in enumerate(f, start=1):
+            d = json.loads(line)
 
-        if "rating" in d:
-            rating=" "
-            for _ in d["rating"]:
-                rating +=":star:"
-            s += rating
+            s = f"{i}. [{d['title']}]({d['url']})"
 
-        print(s + "\n")
+            if "rating" in d:
+                rating=" "
+                for _ in d["rating"]:
+                    rating +=":star:"
+                s += rating
 
+            print(s + "\n")
+    print()
+
+
+def main():
+    print("# Bajkowy kącik\n\n\n")
+    for fname, title in FNAMES_TITLES:
+        print(f"## {title}\n")
+        process_json(fname)
+
+
+if __name__ == "__main__":
+    main()
 
