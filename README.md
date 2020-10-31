@@ -86,33 +86,83 @@
 
 41. [02.01.2020 Dwanaście miesięcy](http://static.prsa.pl/5dd0769a-03bb-4648-8893-d712fde83d17.mp3)
 
-42. [31.10.2019 Bajka o dyni](http://static.prsa.pl/7869f166-8d7e-4ea0-8c11-b8d8c9444ca4.mp3) :star::star::star:
+42. [28.12.2019 Bazyliszek](http://static.prsa.pl/b233487e-33e3-46b8-9e7c-c31b870a2e0f.mp3)
 
-43. [19.10.2019 Japońska bajka o osiemdziesięciu trzech książętach](http://static.prsa.pl/21f342bf-6050-4af9-be6f-d0890d8fa8c5.mp3) :star::star::star:
+43. [26.12.2019 Ruda Kitka](http://static.prsa.pl/0979736b-67b7-4df0-a24a-b9bde23dc995.mp3)
 
-44. [02.09.2019 Calineczka](http://static.prsa.pl/c2fcc1e4-0d3a-4b3f-b2f1-b937d10fdb54.mp3)
+44. [21.12.2019 Porywacze skarpetek](http://static.prsa.pl/736a8718-a142-4425-a034-b26eeee24c6b.mp3)
 
-45. [07.08.2019 Bajka o garnku](http://static.prsa.pl/ff48e5c8-fc82-46e1-8b6b-ee594b08d726.mp3)
+45. [19.12.2019 Biedny student](http://static.prsa.pl/b86b7b25-c561-4bed-ae8c-0dd3036742f5.mp3)
 
-46. [09.07.2019 O rybaku i rybce](http://static.prsa.pl/5ee85422-248d-4e3a-b93d-e55ae5ea46da.mp3)
+46. [14.12.2019 Ptasi wyścig](http://static.prsa.pl/18e04d6c-f47c-4654-9745-b24228de3bc4.mp3)
 
-47. [09.07.2019 Piramida](http://static.prsa.pl/1f9995c5-6d71-4587-9bca-1730867168c3.mp3)
+47. [12.12.2019 Jak przechytrzyć smoka](http://static.prsa.pl/7208e21d-2f7d-4d55-9253-f813f8f26bf8.mp3)
 
-48. [11.09.2018 Bajka o siedmiu krukach](http://static.prsa.pl/c808fed7-6643-40f1-b71f-0307887b9c45.mp3)
+48. [21.11.2019 Knyps z Czubkiem](http://static.prsa.pl/db0b0330-deb6-4264-9b0b-e2a2cb5b1aee.mp3)
 
-49. [11.09.2018 Bajka o najmądrzejszej z dziewczynek](http://static.prsa.pl/fc50b95e-bb8c-494f-90a4-e4cfd55fa844.mp3)
+49. [07.11.2019 Trzech braci i zagadki karzełka](http://static.prsa.pl/9c9f3a48-260d-4a53-a68e-1653580a5228.mp3)
+
+50. [02.11.2019 Bajka o półkurku](http://static.prsa.pl/6d303a02-1ccb-41ae-8a58-a6f03e48ad73.mp3)
+
+51. [31.10.2019 Bajka o dyni](http://static.prsa.pl/7869f166-8d7e-4ea0-8c11-b8d8c9444ca4.mp3) :star::star::star:
+
+52. [22.10.2019 Bajka o rycerzu](http://static.prsa.pl/b4c09bca-1414-49f4-a47f-264e73c308de.mp3) :star::star::star:
+
+53. [19.10.2019 Japońska bajka o osiemdziesięciu trzech książętach](http://static.prsa.pl/21f342bf-6050-4af9-be6f-d0890d8fa8c5.mp3) :star::star::star:
+
+54. [17.10.2019 Bajka o podsłuchiwaniu](http://static.prsa.pl/91c21e7d-a800-4828-b4a5-df4ce5bfe825.mp3)
+
+55. [12.10.2019 Bajka o mądrej córce](http://static.prsa.pl/7b933a82-e3cf-429a-bd32-dc49905828a6.mp3)
+
+56. [10.10.2019 Na szczupaka polecenie](http://static.prsa.pl/b7cfb82b-3ffa-4250-896e-ed41216bce85.mp3)
+
+57. [28.09.2019 Kłamiesz](http://static.prsa.pl/a029da79-98b4-4168-9408-2d632d81e013.mp3)
+
+58. [25.09.2019 Dlaczego sowy hukają?](http://static.prsa.pl/0da4b7fb-0e8b-4646-9ef2-7781c1e1d3dc.mp3)
+
+59. [24.09.2019 Kopciuszek](http://static.prsa.pl/31b473e9-26c3-4665-9e32-3bf16e4beefb.mp3)
+
+60. [19.09.2019 Kłótliwa kózka](http://static.prsa.pl/7d9adbfc-7377-490f-8c74-1988f490eec8.mp3)
+
+61. [02.09.2019 Calineczka](http://static.prsa.pl/c2fcc1e4-0d3a-4b3f-b2f1-b937d10fdb54.mp3)
+
+62. [08.08.2019 Bajka o dwóch syrenkach](http://static.prsa.pl/ad35d825-1e6b-4b04-a65e-992e90d4c1e7.mp3)
+
+63. [07.08.2019 Bajka o garnku](http://static.prsa.pl/ff48e5c8-fc82-46e1-8b6b-ee594b08d726.mp3)
+
+64. [09.07.2019 O rybaku i rybce](http://static.prsa.pl/5ee85422-248d-4e3a-b93d-e55ae5ea46da.mp3)
+
+65. [09.07.2019 Piramida](http://static.prsa.pl/1f9995c5-6d71-4587-9bca-1730867168c3.mp3)
+
+66. [11.09.2018 Bajka o siedmiu krukach](http://static.prsa.pl/c808fed7-6643-40f1-b71f-0307887b9c45.mp3)
+
+67. [11.09.2018 Bajka o najmądrzejszej z dziewczynek](http://static.prsa.pl/fc50b95e-bb8c-494f-90a4-e4cfd55fa844.mp3)
 
 
 ## Inne bajki
 
-1. [08.03.2020 Skradziony biały słoń - cz. 5](http://static.prsa.pl/88c5f8c5-d30a-435b-b094-10bcc835ec57.mp3)
+1. [30.10.2020 Białośnieżka i różanka](http://static.prsa.pl/aa187952-d641-49b4-8d83-2611ddb721cc.mp3)
 
-2. [07.03.2020 Skradziony biały słoń - cz. 4](http://static.prsa.pl/4820763c-801f-441a-af96-3f68f8544962.mp3)
+2. [08.03.2020 Skradziony biały słoń - cz. 5](http://static.prsa.pl/88c5f8c5-d30a-435b-b094-10bcc835ec57.mp3)
 
-3. [06.03.2020 Skradziony biały słoń - cz. 3](http://static.prsa.pl/a7bb2cd1-0ee2-4318-b285-97e115e2b70a.mp3)
+3. [07.03.2020 Skradziony biały słoń - cz. 4](http://static.prsa.pl/4820763c-801f-441a-af96-3f68f8544962.mp3)
 
-4. [05.03.2020 Skradziony biały słoń - cz. 2](http://static.prsa.pl/d6c36d10-40d6-4151-abe6-4c551d200e27.mp3)
+4. [06.03.2020 Skradziony biały słoń - cz. 3](http://static.prsa.pl/a7bb2cd1-0ee2-4318-b285-97e115e2b70a.mp3)
 
-5. [04.03.2020 Skradziony biały słoń - cz. 1](http://static.prsa.pl/d4cc7c5e-3cf3-459c-bcd0-b66c16b96260.mp3)
+5. [05.03.2020 Skradziony biały słoń - cz. 2](http://static.prsa.pl/d6c36d10-40d6-4151-abe6-4c551d200e27.mp3)
+
+6. [04.03.2020 Skradziony biały słoń - cz. 1](http://static.prsa.pl/d4cc7c5e-3cf3-459c-bcd0-b66c16b96260.mp3)
+
+7. [30.11.2019 Krasnoludek (czyta: Patryk Bartoszewski)](http://static.prsa.pl/5cb9b64b-c40a-410e-81a7-9ab81ae009e4.mp3)
+
+8. [19.11.2019 Słowik cz. 3](http://static.prsa.pl/10d12cad-a7ef-461c-adc1-1c52e99f9af7.mp3)
+
+9. [16.11.2019 Słowik cz. 2](http://static.prsa.pl/582f5fc3-4cb0-4423-96b9-ee393c3d51b2.mp3)
+
+10. [15.11.2019 Słowik cz. 1](http://static.prsa.pl/e6326b6e-aaf8-45ce-9249-f5d1995b62f6.mp3)
+
+11. [15.11.2019 Kwiaty Idalki cz. 2](http://static.prsa.pl/7d4f8cd7-90ce-470c-a50a-ac03015e8a99.mp3)
+
+12. [15.11.2019 Kwiaty Idalki cz. 1](http://static.prsa.pl/d377baf6-18ac-4092-a367-d0e3b59b8abb.mp3)
 
 
