@@ -6,11 +6,16 @@ FNAMES_TITLES = [("Wojtek_i_Smok_Adas.json", "Wojtek i Smok Adaś"),
 
 
 def process_json(fname):
+    n = 0
     with open(fname) as f:
-        for i, line in enumerate(f, start=1):
+        for line in f:
+            n+=1
+
+    with open(fname) as f:
+        for i, line in enumerate(f):
             d = json.loads(line)
 
-            s = f"{i}. [{d['title']}]({d['url']})"
+            s = f"{n-i}. [{d['title']}]({d['url']})"
 
             if "rating" in d:
                 rating=" "
