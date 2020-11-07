@@ -15,7 +15,7 @@ def process_json(fname):
         for i, line in enumerate(f):
             d = json.loads(line)
 
-            s = f"{n-i}. [{d['title']}]({d['url']})"
+            s = f"*{n-i}*. [{d['title']}]({d['url']})"
 
             if "rating" in d:
                 rating=" "
