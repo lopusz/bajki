@@ -4,6 +4,8 @@
 
 ## Wojtek i Smok Adaś
 
+*68*. [20.11.2020 Dlaczego sól morska jest słona](http://static.prsa.pl/240b2ddb-67c4-4a62-a7b8-adc763aa4a37.mp3)
+
 *67*. [23.10.2020 Bajka o Babie Jadze i sierotce](http://static.prsa.pl/82a25491-20c2-4895-8a62-0c68c2a427d9.mp3)
 
 *66*. [16.10.2020 Bajka o Abu Alim i jego żonie](http://static.prsa.pl/6c8d0eed-2038-4a79-8592-7b7dd6eea04a.mp3) :star::star::star:
