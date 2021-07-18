@@ -4,7 +4,8 @@ import json
 import urllib.request
 import pathlib
 
-TARGET_DIR = pathlib.Path("./bajki")
+MP3_TARGET_DIR = pathlib.Path("./wojtek_i_smok_adas")
+MP3_LIST_FNAME = pathlib.Path("./Wojtek_i_Smok_Adas.json")
 
 
 def normalize_date(s):
@@ -37,9 +38,9 @@ def normalize_title(s):
     return s_res
 
 
-with open("Wojtek_i_Smok_Adas.json", "rt") as f:
+with open(MP3_LIST_FNAME, "rt") as f:
 
-    TARGET_DIR.mkdir(parents=True)
+    MP3_TARGET_DIR.mkdir(parents=True)
 
     for line in f:
         d = json.loads(line)
@@ -51,4 +52,4 @@ with open("Wojtek_i_Smok_Adas.json", "rt") as f:
 
         fname = date + "-" + title + ".mp3"
         print(f"Downloading {fname}...")
-        urllib.request.urlretrieve(url, TARGET_DIR / fname)
+        urllib.request.urlretrieve(url, MP3_TARGET_DIR / fname)
