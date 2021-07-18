@@ -1,15 +1,18 @@
 #!/usr/bin/env python3
+
 import json
 
-FNAMES_TITLES = [("Wojtek_i_Smok_Adas.json", "Wojtek i Smok Adaś"),
-                ("Inne_bajki.json", "Inne bajki")]
+FNAMES_TITLES = [
+    ("Wojtek_i_Smok_Adas.json", "Wojtek i Smok Adaś"),
+    ("Inne_bajki.json", "Inne bajki"),
+]
 
 
 def process_json(fname):
     n = 0
     with open(fname) as f:
         for line in f:
-            n+=1
+            n += 1
 
     with open(fname) as f:
         for i, line in enumerate(f):
@@ -18,9 +21,9 @@ def process_json(fname):
             s = f"*{n-i}*. [{d['title']}]({d['url']})"
 
             if "rating" in d:
-                rating=" "
+                rating = " "
                 for _ in d["rating"]:
-                    rating +=":star:"
+                    rating += ":star:"
                 s += rating
 
             print(s + "\n")
@@ -36,4 +39,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
